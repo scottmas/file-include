@@ -1,0 +1,1 @@
+console.log('bower resolve bootstrap.js')

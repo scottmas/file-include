@@ -1,0 +1,1 @@
+console.log('bower resolve jquery.js')

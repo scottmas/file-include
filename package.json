@@ -1,0 +1,34 @@
+{
+  "name": "file-include",
+  "version": "0.3.0",
+  "description": "A utility for recursively including files within other ones.",
+  "homepage": "http://github.com/scottmas/file-include",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/scottmas/file-include.git"
+  },
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [
+    "insertion", "concatenate", "file", "include"
+  ],
+  "author": {
+    "name": "Scott Ashton"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "mocha": "~1.17.0",
+    "should": "~2.1.1"
+  },
+  "dependencies": {
+    "bower-resolve": "~1.1.0",
+    "glob": "~4.0.0"
+  },
+  "readme": "",
+  "readmeFilename": "README.md",
+  "bugs": {
+    "url": "https://github.com/scottmas/file-include/issues"
+  }
+}
